@@ -9,13 +9,9 @@ Labelling: Per-frame bounding boxes for objects from RGBD object dataset. Other 
 
 Download: Project page
 # Table
-<style>
-table th:nth-of-type(24) {
-    width: 25cm;
-}
-</style>
 
-|Shortname|Link|Affiliation|Year|Platform|Publication|Environment|Pose|Map|IMU|GPS|Labels|2D Lidar|3D Lidar|Mono|Stereo|Omni|RGBD|Event|Radar|Sonar|DVL|Other|Ref&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|
+
+|Shortname &nbsp&nbsp|Link|Affiliation|Year|Platform|Publication|Environment|Pose|Map|IMU|GPS|Labels|2D Lidar|3D Lidar|Mono|Stereo|Omni|RGBD|Event|Radar|Sonar|DVL|Other &nbsp&nbsp|Ref &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 |FMDataset|https://github.com/zhuzunjie17/FastFusion|Hangzhou Dianzi / Tsinghua|2019|Hand|ICME|Indoor|||O||||||||O||||||Shan, Zeyong, Ruijian Li, and Sören Schwertfeger. "RGBD-Inertial Trajectory Estimation and Mapping for Ground Robots." Sensors 19.10 (2019): 2251.|
 |InteriorNet|https://interiornet.org/|Imperial College|2018|Hand|BMVC|Indoor|O|O|O||O||||O||O|O||||Texture, Lighting, Context, Optical Flow|Li, Wenbin, et al. "InteriorNet: Mega-scale multi-sensor photo-realistic indoor scenes dataset." arXiv preprint arXiv:1809.00716 (2018).|
