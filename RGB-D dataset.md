@@ -9,7 +9,11 @@ Labelling: Per-frame bounding boxes for objects from RGBD object dataset. Other 
 
 Download: Project page
 # Table
-
+<style>
+table th:nth-of-type(24) {
+    width: 25cm;
+}
+</style>
 
 |Shortname|Link|Affiliation|Year|Platform|Publication|Environment|Pose|Map|IMU|GPS|Labels|2D Lidar|3D Lidar|Mono|Stereo|Omni|RGBD|Event|Radar|Sonar|DVL|Other|Ref|
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
