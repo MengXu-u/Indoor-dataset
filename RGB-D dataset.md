@@ -17,7 +17,9 @@ table th:nth-of-type(24) {
 
 |Shortname|Link|Affiliation|Year|Platform|Publication|Environment|Pose|Map|IMU|GPS|Labels|2D Lidar|3D Lidar|Mono|Stereo|Omni|RGBD|Event|Radar|Sonar|DVL|Other|Ref|
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
-|FMDataset|https://github.com/zhuzunjie17/FastFusion|Hangzhou Dianzi / Tsinghua|2019|Hand|ICME|Indoor|||O||||||||O||||||<div style="width: 500000pt">Shan, Zeyong, Ruijian Li, and Sören Schwertfeger. "RGBD-Inertial Trajectory Estimation and Mapping for Ground Robots." Sensors 19.10 (2019): 2251.</div>|
+|FMDataset|https://github.com/zhuzunjie17/FastFusion|Hangzhou Dianzi / Tsinghua|2019|Hand|ICME|Indoor|||O||||||||O||||||<div style="width: 25cm">Shan, Zeyong, Ruijian Li, and Sören Schwertfeger. "RGBD-Inertial Trajectory Estimation and Mapping for Ground Robots." Sensors 19.10 (2019): 2251.</div>|
+
+
 |InteriorNet|https://interiornet.org/|Imperial College|2018|Hand|BMVC|Indoor|O|O|O||O||||O||O|O||||Texture, Lighting, Context, Optical Flow|Li, Wenbin, et al. "InteriorNet: Mega-scale multi-sensor photo-realistic indoor scenes dataset." arXiv preprint arXiv:1809.00716 (2018).|
 |TUM-RGBD|https://vision.in.tum.de/data/datasets/rgbd-dataset|TUM|2012|Hand / Mob|IROS|Indoor|O||O||||||||O||||||J. Sturm, N. Engelhard, F. Endres, W. Burgard, and D. Cremers. A Benchmark for the Evaluation of RGB-D SLAM Systems. In Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pages 573–580. IEEE, 2012|
 |Robot @ Home|http://mapir.isa.uma.es/mapirwebsite/index.php/mapir-downloads/203-robot-at-home-dataset|MRPT|2017|Mob|IJRR|Indoor|O|O|||O|O|||||O|||||Semantic Labels|Ruiz-Sarmiento, J. R., Cipriano Galindo, and J. González-Jiménez. "Robot@ home, a robotic dataset for semantic mapping of home environments." The International Journal of Robotics Research 36.2 (2017): 131-141.|
